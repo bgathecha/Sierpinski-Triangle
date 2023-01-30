@@ -5,17 +5,20 @@ Choose any of the following 3 transformations at random
 
 ## First transformation  
 $$
-x_{n+1} = 0.5x_{n}\\y_{n+1} = 0.5y_n
+x_{n+1} = 0.5x_{n}\\
+y_{n+1} = 0.5y_n
 $$
 
 ## Second transformation
 $$
-x_{n+1} = 0.5x_n + 0.5\\y_{n+1} = 0.5y_n + 0.5
+x_{n+1} = 0.5x_n + 0.5\\
+y_{n+1} = 0.5y_n + 0.5
 $$
 
 ## Third transformation
 $$
-x_{n+1} = 0.5x_n + 1\\y_{n+1} = 0.5y_n
+x_{n+1} = 0.5x_n + 1\\
+y_{n+1} = 0.5y_n
 $$
 
 ## Results
